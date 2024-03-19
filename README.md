@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, React & Redux at the Technigo Bootcamp
 - 🍿 I’m interested in tech, interior design, 🇵🇹 🫶 🇮🇹, board games and movie nights
 - ⭐️ Check what I´m currently working on [Give a Happy Thought❣️](https://technigo-ps-happy-thought-app.netlify.app/)
-- 🚀 My Portfolio [👛](https://pernillasterner.netlify.app/)
+- 🚀 My Portfolio [👛👛👛](https://pernillasterner.netlify.app/)
 - ⚡ Fun fact: I wanted to be an 🎤 artist when I grew up
 - 🎯 One of My goal is to specialize in 3D graphics and animation within frontend developement
 
