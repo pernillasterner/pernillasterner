@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m @pernillasterner																																					
 - 🌱 I’m currently learning Javascript, React & Redux at the Technigo Bootcamp
+- 👉 What I´m working in right now. [Live](https://technigo-project-survey-vite.netlify.app/)
 - 🍿 I’m interested in tech, interior design, 🇵🇹 🫶 🇮🇹, board games and movie nights
 - ⭐️ Check what I´m currently working on [Give a Happy Thought❣️](https://technigo-ps-happy-thought-app.netlify.app/)
 - 🚀 My Portfolio [👛👛👛](https://pernillasterner.netlify.app/)
