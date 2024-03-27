@@ -14,3 +14,6 @@
 -  One of my favorite solo projects -> [The Movie App](https://technigo-project-movie-site.netlify.app/) 
 -  I'm proud of the UI on this project -> [News Site](https://technigo-project-news-site.netlify.app/)
 -  We had some fun mob-programming and dreaming about Semlas -> [Semla Chatbot](https://technigo-project-chatbot.netlify.app/) developed in collaboration with [Lovisaaberg](https://github.com/Lovisaaberg) & [idsab](https://github.com/idsab)
+
+
+![Snake Graph](https://github.com/pernillasterner/pernillasterner/blob/master/github-user-contribution.svg)
